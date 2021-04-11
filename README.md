@@ -1,5 +1,6 @@
 
 NOTE: It may look like i'm holding the increment button and the values are incrementing but it is not so, i'm hitting the button everytime the number gets incremented.
+
 ![Github_5](https://user-images.githubusercontent.com/80212470/114295441-e61e2400-9ac2-11eb-98ef-eda15f46b17c.gif)
 
 # Getting Started with Create React App
